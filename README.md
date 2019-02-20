@@ -1,6 +1,6 @@
 # Jupyter Notebook Cells Classification
 
-Our task is to classify Jupyter notebook cells into the relevant Data-Science workflow stage, as described in the [documentation](https://1drv.ms/b/s!AlSpEfulQxpygel681ZWZCJ50-dD8A)
+Our task is to classify Jupyter notebook cells into the relevant Data-Science workflow stage, as described in the [documentation](https://1drv.ms/b/s!AlSpEfulQxpygel681ZWZCJ50-dD8A).
 
 The first notebook is "Exploration_and_WeakSupervision.ipynb" and as the name implies it contains our data exploration and tagging using snorkel weak supervision. It will automatically open the second notebook, that contains our end-classification-model (LSTM).
 
